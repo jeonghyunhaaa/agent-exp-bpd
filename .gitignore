@@ -1,2 +1,4 @@
 .DS_Store
-BPD/
+__pycache__/
+BPD/*
+!BPD/experiments/
